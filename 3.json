@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "category": "Programming",
+    "type": "twopart",
+    "setup": "So what's a set of predefined steps the government might take to preserve the environment?",
+    "delivery": "An Al-Gore-ithm.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "id": 51,
+    "safe": true,
+    "lang": "en"
+}
